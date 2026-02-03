@@ -1,6 +1,6 @@
 mysql
 redis
-mongodb
+mongo
 eclipse-mosquitto
 openresty/openresty
 nacos/nacos-server
